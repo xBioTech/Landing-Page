@@ -1,14 +1,22 @@
 .header {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     background-color: #1F2937;
-    
 }
+.header-left{
+color: #F9FAF8;
+font-size: 1.3rem;
+font-weight: 700;
+}
+
 ul{
 display: flex;
 list-style: none;
 gap: 2em;
 }
+
 a{
     text-decoration: none;
+    color: #E5E7EB;
 }
