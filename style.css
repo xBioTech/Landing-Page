@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+    
+}
+ul{
+display: flex;
+list-style: none;
+gap: 2em;
+}
+a{
+    text-decoration: none;
+}
