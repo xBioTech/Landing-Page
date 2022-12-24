@@ -23,3 +23,35 @@ a{
     text-decoration: none;
     color: #E5E7EB;
 }
+
+.header-main-text{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5em;
+    padding-bottom: 8em;
+}
+.header-main-left{
+max-width: 22%;
+}
+.header-main-right{
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    padding: 0 10em;
+}
+.hero-main-text{
+    font-size: 3rem;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+.subtext{
+    font-size: 1.1rem;
+    color: #F9FAF8;
+}
+.signup{
+    cursor: pointer;
+    border-radius: 0.5em;
+    padding: 0.5em 3em;
+    color: white;
+    background-color: #3882F6;
+}
