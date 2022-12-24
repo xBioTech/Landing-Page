@@ -1,8 +1,11 @@
+.header{
+    background-color: #1F2937;
+}
+
 .flexbox{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #1F2937;
 }
 .header-left{
 color: #F9FAF8;
