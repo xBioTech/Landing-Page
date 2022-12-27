@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 .header{
     background-color: #1F2937;
 }
@@ -67,10 +71,17 @@ max-width: 22%;
 .flex {
     display: flex;
     justify-content: center;
+   gap: 3em;
 }
 .border {
-    padding: 4em 0em;
+    padding-left: 10em;
+    padding-top: 10em;
   border: 3px solid #3882F6;
   width: 43%;
   border-radius: 10px;
 }
+.container{
+   max-width: 9%;
+   text-align: center;
+}
+
