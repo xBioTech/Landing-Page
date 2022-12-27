@@ -68,6 +68,10 @@ max-width: 22%;
     justify-content: center;
 }
 
+.image-section{
+    padding: 5em 5em;
+}
+
 .flex {
     display: flex;
     justify-content: center;
@@ -83,5 +87,9 @@ max-width: 22%;
 .container{
    max-width: 9%;
    text-align: center;
+}
+
+.quote-section{
+    background-color: #E5E7EB;
 }
 
