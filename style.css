@@ -55,3 +55,22 @@ max-width: 22%;
     color: white;
     background-color: #3882F6;
 }
+
+.info{
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+.border {
+    padding: 4em 0em;
+  border: 3px solid #3882F6;
+  width: 43%;
+  border-radius: 10px;
+}
