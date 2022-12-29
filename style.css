@@ -115,3 +115,39 @@ max-width: 22%;
     max-width: 50%;
 }
 
+
+.cta-section{
+    padding: 10em 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cta-section-container {
+    border-radius: 10px;
+    padding: 1em 5em;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-container-left{
+padding-right: 10em;
+}
+
+.cta-section-title{
+font-size: 1.3rem;
+color: #F9FAF8;
+font-weight: 700;
+}
+.cta-section-text{
+color: #F9FAF8;
+}
+
+.btn-ctn{
+    border-color: white;
+}
+
+
