@@ -150,4 +150,12 @@ color: #F9FAF8;
     border-color: white;
 }
 
+.footer {
+    padding: 1.5em 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
 
