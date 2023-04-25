@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Landing Page
 
 ## Live Demo
