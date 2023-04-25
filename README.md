@@ -1,8 +1,9 @@
-<<<<<<< HEAD
 # Landing Page
 
 ## Live Demo
-[Watch the Live Demo here!](https://xbiotech.github.io/Landing-Page/)
+[Click me to see the Live Demo!](https://xbiotech.github.io/Landing-Page/)
+
+
 [![Landing Page Preview](https://i.gyazo.com/97e88aa1130a263e56d4513b72ab284f.gif?autoplay=1&loop=1)](https://gyazo.com/97e88aa1130a263e56d4513b72ab284f)
 
 ## Welcome! :wave:
